@@ -5,9 +5,17 @@ Aqui que eu passo maior parte do meu tempo. Este é meu repositório contendo so
 <p align="center">
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/ppmferreira/Study" alt="Visitors badge" />
-    <img src="https://badges.pufler.dev/repos/ppmferreira/Study" alt="Repos badge" />
-    <img src="https://badges.pufler.dev/updated/ppmferreira/Study" alt="Repos badge" />
+    <img src="https://badges.pufler.dev/updated/ppmferreira/Study" alt=" Last Updated" />
     <img src="https://img.shields.io/github/repo-size/ppmferreira/Study" alt="Size badge" />
-    <img src="https://badges.pufler.dev/license/ppmferreira/Study" alt="license badge" />
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License Badge" />
   </a>
-  
+</p>
+<hr>
+<h2>Minhas principais linguagens</h2>
+  <p align="center">
+  <!--Languages session-->
+    <!-- Python -->
+    <a href="./Desafios Dio/Desafios/Python/">
+      <img src="./Desafios Dio/assets/python.svg" alt="python" tittle="Python" width="70" height="70">
+    </a>
+  </p>
